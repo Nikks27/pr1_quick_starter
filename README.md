@@ -1,16 +1,18 @@
 # pr1_quick_starter
 
-A new Flutter project.
+#  Quick Starter
 
-## Getting Started
+<h1 align="center"> 1. Quick Starter </h1>
 
-This project is a starting point for a Flutter application.
+<h1 align="left"></h1>
 
-A few resources to get you started if this is your first Flutter project:
+<div align ="center">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  <img src = "https://github.com/Nikks27/pr1_quick_starter/assets/148762716/865cbf2e-7676-4f59-aee6-0cc907fd19eb" height ="550">
+    <img src = "https://github.com/Nikks27/pr1_quick_starter/assets/148762716/0425bba7-5eaa-49cc-843b-419b0d870b2a" height ="550">
+      <img src = "https://github.com/Nikks27/pr1_quick_starter/assets/148762716/13a38abd-064e-4a57-9083-2124ad9b269d" height ="550">
+        <img src = "https://github.com/Nikks27/pr1_quick_starter/assets/148762716/73224981-0db7-4d59-b489-9e7808315547" height ="550">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+   
+</div>
